@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.3.6",
+	"FriendlyName": "AdvancedFlockSystem",
+	"Description": "Advanced Flock System",
+	"Category": "CAS",
+	"CreatedBy": "Taueron",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/1rpaOw8RK7gKV6biHntXStK9hUwlZMPkeMviJBMltp7I/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4e0c3b65a03046a290403b326dbb3428",
+	"SupportURL": "https://discord.gg/DN4PhbmShg",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AdvancedFlockSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"Mac",
+				"IOS",
+				"Linux"
+			]
+		}
+	]
+}
